@@ -1,0 +1,63 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add contract form</title>
+    <link rel="stylesheet" href="styleaddcontract.css">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+</head>
+<body>
+    <div class="container">
+        <div class="title">Add Contract</div>
+        <form action="adddbcon.php" method="POST">
+        <div class="Contract-details">
+            <div class="input-box">
+                <span class="details">Contract ID</span>
+                <input type="text" name="contractid" placeholder="Contract ID" required>
+            </div>
+            <div class="input-box">
+                <span class="details">Contract Name</span>
+                <input type="text" name="contractname" placeholder="Contract Name" required>
+            </div>
+            <div class="input-box">
+                <span class="details">Status</span>
+                    <div class="select-box">
+                      <select name="status">
+                        <option hidden>Status</option>
+                        <option>Active</option>
+                        <option>Expired</option>
+                      </select>
+                    </div>
+            </div>
+            <div class="input-box">
+                <span class="details">Contract Type</span>
+                <div class="select-box">
+                    <select name="Contracttype">
+                      <option hidden>Contract type</option>
+                      <option>Revenue Expenditure</option>
+                      <option>Capital expenditure</option>
+                    </select>
+                  </div>
+            </div>
+            <div class="input-box">
+                <span class="details">Start Date</span>
+                <input type="date" placeholder="Start Date" name="startdate" required>
+            </div>
+            <div class="input-box">
+                <span class="details">End Date</span>
+                <input type="date" placeholder="End Date" name="enddate" required>
+            </div>
+            <div class="input-box">
+                <span class="details">Description</span>
+                <input type="text" placeholder="Description" name="description" required>
+            </div>
+            <div class="button">
+                <input type="submit" name="submit" value="Submit">
+            </div>
+        </div>
+        </form>
+    </div>
+</body>
+</html> 
