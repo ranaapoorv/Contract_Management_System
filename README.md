@@ -1,6 +1,6 @@
 # Contract_Management_System
 
-A system that will help the industry/organisation to track and monitor their Copex and Opex and map thier product with Purchase Id, Owner ,Period of the Purchase, Last date with reminder synced to the registered mail id and much more. 
+A system that will help the industry/organization  to track and monitor their Copex and Opex and map thier product with Purchase Id, Owner ,Period of the Purchase, Last date with reminder synced to the registered mail id and much more. 
 
 Login Page - 
 
