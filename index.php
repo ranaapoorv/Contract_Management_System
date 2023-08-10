@@ -10,7 +10,7 @@ session_start();
 	<meta name="viewport"
 		content="width=device-width,
 						initial-scale=1.0">
-	<title>Airports Authority of India</title>
+	<title>Contact Managment System</title>
 	<link rel="stylesheet"
 		href="style.css" 
 	>
