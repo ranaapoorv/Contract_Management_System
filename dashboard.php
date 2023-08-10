@@ -16,7 +16,7 @@
     <aside>
           <div class="top">
             <div class="logo"> 
-              <img src="https://cracku.in/latest-govt-jobs/wp-content/uploads/2020/02/aai-logo.png" alt="">
+              <img src="https://www.canva.com/design/DAFrIY5RytQ/raaMdQo67n5xEVmexL8lEg/view" alt="">
               <h2>Airports Authority Of<br>
                 India</h2>
             </div>
