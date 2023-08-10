@@ -26,7 +26,7 @@ session_start();
 	</header>
 	<div class="container">
         <div class="container">
-            <img src="https://pbs.twimg.com/profile_images/1598196376667840512/YkXx09NT_400x400.jpg" alt="Corner Image" class="corner-image">
+            <img src="https://sendeyo.com/get/d/8f4b3e4420" alt="Corner Image" class="corner-image">
 
 		<div class="slider"></div>
 		<div class="btn">
