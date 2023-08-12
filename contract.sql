@@ -25,7 +25,7 @@ SET time_zone = "+00:00";
 
 --
 -- Table structure for table `contract`
---
+
 
 CREATE TABLE `contract` (
   `naam` text NOT NULL,
