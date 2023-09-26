@@ -30,7 +30,7 @@ session_start();
 
 		<div class="slider"></div>
 		<div class="btn">
-			<button class="login">Login</button>
+			<button class="login">Sign in</button>
 			<button class="signup">Signup</button>
 		</div>
 
@@ -53,7 +53,7 @@ session_start();
             id="password"
             placeholder="Password">
     </div>
-    <button type="submit" class="clkbtn">Login</button>
+    <button type="submit" class="clkbtn">Sign in</button>
 </div>
         </form>
 
