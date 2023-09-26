@@ -22,7 +22,7 @@ session_start();
 
 	<header>
 		<h1 class="heading">Contract Management System</h1>
-		<h3 class="title">Login & Registration</h3>
+		<h3 class="title">Sign in/Sign up</h3>
 	</header>
 	<div class="container">
         <div class="container">
